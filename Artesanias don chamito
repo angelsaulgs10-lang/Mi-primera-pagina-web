@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🌱 Contexto · Poniendo en línea mis raíces | Diseño Web</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+        }
+        body {
+            background: #f0ebe6;
+            padding: 2rem 1.5rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .guia-maestra {
+            max-width: 1300px;
+            width: 100%;
+            background: #fffcf9;
+            border-radius: 3rem 3rem 2rem 2rem;
+            box-shadow: 0 25px 40px -15px #6b4f40;
+            overflow: hidden;
+            border: 1px solid #ebd5c2;
+        }
+</style>
+</head>
+<body>
+    <div class="guia-maestra" id="guiaPrincipal">
+
+        <!-- ENCABEZADO PERSONALIZADO (mismos datos de planeación) -->
+        <div class="encabezado-planeacion">
+            <h1>
+                <span>   😺 Colegio de Bachilleres de Estado de Mexico  </span>
+                <span class="sello">        ¡BIENVENIDOS PAPUS¡</span>
+            </h1>
+            <div class="datos-destacados">
+                <span><strong>            <b>Elaborado por:</b></strong> FEDERICO PEREZ MAYEN & FLORES DOMINGUEZ RAFAEL</span>
+               
+            </div>
+        </div>
+
+        <div class="contenido-interior">
+
+            <!-- CONTEXTUALIZACIÓN GENERAL -->
+            <div class="contexto-card">
+                <h2>Esta es la página del plantel: 03 Chimalhucan</h2>
+                <p style="font-size: 1.3rem; line-height: 1.6;">Aquí recibirás los conocimientos esenciales para tu vida <strong><i>"Laboral"</i></strong>o <strong><i>"Universitaria"</i></strong>,</p>
+
+<div style="text-align: center;">
+<img src="https://tse2.mm.bing.net/th/id/OIP.-tbwqELCl96Qu7IFqjwpDAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Imagen centrada">
+</div>
+
+            <div>
+
+
+                    <p style="background: #ffe699; border-radius: 30px; padding: 0.5rem;">  </p>
+           
+            </div>
+
+</body>
+</html>
